@@ -1,14 +1,14 @@
 ### My first repository is awesome!
 
-I'm Brian and here it's my first GitHub repository.
+I'm Brian and it's my first GitHub repository.
 If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> [MOOD NAME]
+ECSTATIC
 
 My favorite color:
 
-> [COLOR NAME]
+BLUE
 
 Thank you so much for reading! ☺
